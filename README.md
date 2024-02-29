@@ -1,5 +1,7 @@
 To run;
-```python3 FileExtensionManager.py```
+```
+python3 FileExtensionManager.py
+```
 Download necessary libraries using pip if necessary; 
 ```
 pip install pysqlite3
